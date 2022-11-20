@@ -1,1 +1,1 @@
-Hello
+Here is my first React Static Dashboard. CSS Grid with seperate components
