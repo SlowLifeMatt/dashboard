@@ -1,9 +1,9 @@
 import "./styles.css";
-import Navigation from "./Navigation";
-import Reviews from "./Reviews";
-import Rating from "./Rating";
-import Analysis from "./Analysis";
-import Visitors from "./Visitors";
+import Navigation from "./Components/Navigation";
+import Reviews from "./Components/Reviews";
+import Rating from "./Components/Rating";
+import Analysis from "./Components/Analysis";
+import Visitors from "./Components/Visitors";
 
 export default function App() {
   return (
