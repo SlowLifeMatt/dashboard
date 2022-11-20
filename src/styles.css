@@ -1,0 +1,21 @@
+body {
+  background-color: aqua;
+}
+.dashboard {
+  display: grid;
+}
+.navigation {
+  border-radius: 3px;
+  border: 2px solid black;
+  grid-row-start: 1;
+  grid-row-end: 1;
+  grid-column-start: 1;
+  grid-column-end: 1;
+}
+
+.reviews {
+  grid-row-start: 1;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 2;
+}
