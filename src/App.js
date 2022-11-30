@@ -11,10 +11,10 @@ export default function App() {
       <h1>SlowLifeMatt's Dashboard</h1>
       <section className="dashboard">      
           <Navigation />
-            <Reviews />
-            <Rating />
-            <Analysis />
-            <Visitors />
+          <Reviews />
+          <Rating />
+          <Analysis />
+          <Visitors />
  
       </section>
     </div>
